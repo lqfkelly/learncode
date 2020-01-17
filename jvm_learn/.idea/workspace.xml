@@ -2,24 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d528e372-860d-497c-9bef-2e6b7eb140a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm_learn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyChild1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyParent1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyParent2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyParent3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyParent4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyTest1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyTest3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/jvm_learn/mln/lqf/MyTest4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mln/lqf/MyTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mln/lqf/MyTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mln/lqf/MyTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mln/lqf/MyTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mln/lqf/TestRelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spidertest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spidertest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spidertest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spidertest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spidertest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spidertest/spidertest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +26,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\software\learncode\jvm_learn\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1WK5Ye8HuMOhRfOG9jhFoltqXRx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.MyTest4">
-    <configuration name="MyTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mln.lqf.MyTest1" />
+  <component name="RunManager" selected="Application.TestRelection">
+    <configuration name="MyTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mln.lqf.MyTest2" />
       <module name="jvm_learn" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mln.lqf.MyTest2" />
+    <configuration name="MyTest25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mln.lqf.MyTest25" />
       <module name="jvm_learn" />
       <extension name="coverage">
         <pattern>
@@ -99,12 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestRelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mln.lqf.TestRelection" />
+      <module name="jvm_learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mln.lqf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRelection" />
+        <item itemvalue="Application.MyTest25" />
         <item itemvalue="Application.MyTest4" />
         <item itemvalue="Application.MyTest3" />
         <item itemvalue="Application.MyTest2" />
-        <item itemvalue="Application.MyTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -131,28 +149,80 @@
       <option name="presentableId" value="Default" />
       <updated>1578885494829</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1578900025408</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578900025408</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MyTest25.java">
+      <created>1578973649667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578973649667</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="MyTest25.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="MyTest25.java" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="24" key="#Project_Structure" timestamp="1578986806661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="24" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578986806661" />
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1578973232867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578973232867" />
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1578973639464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578973639464" />
     <state x="463" y="107" key="FileChooserDialogImpl" timestamp="1578899924751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="107" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578899924751" />
-    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1578887840078">
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom" timestamp="1579223197820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578887840078" />
-    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1578887840078">
+    <state width="1286" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579223197820" />
+    <state width="1286" height="156" key="GridCell.Tab.0.center" timestamp="1579223197820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578887840078" />
-    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1578887840078">
+    <state width="1286" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579223197820" />
+    <state width="1286" height="156" key="GridCell.Tab.0.left" timestamp="1579223197820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578887840078" />
-    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1578887840078">
+    <state width="1286" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579223197820" />
+    <state width="1286" height="156" key="GridCell.Tab.0.right" timestamp="1579223197820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578887840078" />
+    <state width="1286" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579223197820" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1578986703162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578986703162" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1578973652459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578973652459" />
+    <state width="746" height="375" key="javadoc.popup.new" timestamp="1578901684423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="746" height="375" key="javadoc.popup.new/0.0.1366.728@0.0.1366.728" timestamp="1578901684423" />
+    <state x="2" y="0" key="new project wizard" timestamp="1579223083096">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="2" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579223083096" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579078784211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579078784211" />
   </component>
 </project>
